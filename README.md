@@ -11,5 +11,5 @@ The project includes:
 - Model Training and Prediction [Naive Bayes Classifier]
 - Model Evaluation
 
-Data:
-The dataset is from UCI datasets. The file we are using contains a collection of more than 5 thousand SMS phone messages
+## Data:
+The dataset is from [UCI datasets](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection) The file we are using contains a collection of more than 5 thousand SMS phone messages
